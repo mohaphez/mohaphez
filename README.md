@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Hessam Taghvaei!](https://www.linkedin.com/in/hessam-taghvaei-a706171ba/) 
+## Hey <span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" style="display:inline-block"/></span>, I'm [Hessam Taghvaei!](https://www.linkedin.com/in/hessam-taghvaei-a706171ba/) 
 
 
 <a href="https://www.linkedin.com/in/hessam-taghvaei-a706171ba/">
